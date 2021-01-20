@@ -1,0 +1,66 @@
+
+p{
+    color: peru;
+}
+
+.cv-navbar{
+ display: flex;
+}
+
+.profilepic-name{
+ float: left;
+ display: flex;
+}
+
+.personal-info{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    margin-top: 20px;
+    margin-left: 63%;
+}
+
+.cv-education ul{
+    border-top: 3px solid peru; 
+    padding-top: 20px;
+}
+
+.cv-education li{
+    list-style: none;
+}
+
+.table-skills{
+    border-spacing: 13px;
+    border-top: 3px solid peru;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 100%;
+
+}
+
+.table-skills td{
+    border: 1px solid peru;
+    background-color: peru;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;  
+}
+
+.cv-languages ul{
+    border-top: 3px solid peru;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.cv-languages li{
+ list-style: none;
+}
+
+footer{
+    border-top: 3px solid peru;
+    padding: 20px;
+}
+
+
+
+
+
+
